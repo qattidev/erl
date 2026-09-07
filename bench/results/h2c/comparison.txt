@@ -1,0 +1,19 @@
+                                               │ bench/results/h2c/std.txt │   bench/results/h2c/erl.txt   │
+                                               │          sec/op           │   sec/op     vs base          │
+HTTP2/protocol=h2c/routes=500/concurrency=64-4                 6.527µ ± 2%   6.494µ ± 7%  ~ (p=0.579 n=10)
+
+                                               │ bench/results/h2c/std.txt │   bench/results/h2c/erl.txt   │
+                                               │           req/s           │    req/s     vs base          │
+HTTP2/protocol=h2c/routes=500/concurrency=64-4                 153.2k ± 2%   154.0k ± 6%  ~ (p=0.579 n=10)
+
+                                               │ bench/results/h2c/std.txt │   bench/results/h2c/erl.txt   │
+                                               │          p50-ms           │   p50-ms     vs base          │
+HTTP2/protocol=h2c/routes=500/concurrency=64-4                 367.9m ± 1%   369.3m ± 3%  ~ (p=0.149 n=10)
+
+                                               │ bench/results/h2c/std.txt │   bench/results/h2c/erl.txt   │
+                                               │          p95-ms           │   p95-ms     vs base          │
+HTTP2/protocol=h2c/routes=500/concurrency=64-4                 835.4m ± 2%   822.6m ± 9%  ~ (p=0.837 n=10)
+
+                                               │ bench/results/h2c/std.txt │   bench/results/h2c/erl.txt   │
+                                               │          p99-ms           │   p99-ms     vs base          │
+HTTP2/protocol=h2c/routes=500/concurrency=64-4                  1.071 ± 3%   1.055 ± 17%  ~ (p=1.000 n=10)

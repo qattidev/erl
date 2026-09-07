@@ -1,0 +1,6 @@
+{"router":"erl","protocol":"tls","run":1,"requests":45107,"errors":0,"connections":1,"seconds":3.000049834,"requests_per_second":15035.416908344598,"p50_ms":0.059125,"p95_ms":0.09175,"p99_ms":0.16225}
+{"router":"std","protocol":"tls","run":1,"requests":43599,"errors":0,"connections":1,"seconds":3.000047042,"requests_per_second":14532.7721164447,"p50_ms":0.061375,"p95_ms":0.097041,"p99_ms":0.160542}
+{"router":"std","protocol":"tls","run":2,"requests":39776,"errors":0,"connections":1,"seconds":3.000017958,"requests_per_second":13258.587300763085,"p50_ms":0.06475,"p95_ms":0.109667,"p99_ms":0.238208}
+{"router":"erl","protocol":"tls","run":2,"requests":42338,"errors":0,"connections":1,"seconds":3.000021791,"requests_per_second":14112.564157704814,"p50_ms":0.062,"p95_ms":0.101708,"p99_ms":0.189792}
+{"router":"erl","protocol":"tls","run":3,"requests":43725,"errors":0,"connections":1,"seconds":3.000010875,"requests_per_second":14574.947165816524,"p50_ms":0.060333,"p95_ms":0.0975,"p99_ms":0.179416}
+{"router":"std","protocol":"tls","run":3,"requests":42893,"errors":0,"connections":1,"seconds":3.000023084,"requests_per_second":14297.556651734085,"p50_ms":0.061084,"p95_ms":0.098708,"p99_ms":0.1815}

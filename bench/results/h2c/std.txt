@@ -1,0 +1,10 @@
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 762557 6557.5785 ns/op 152495.3143 req/s 0.3701 p50-ms 0.8376 p95-ms 1.0779 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 778204 6425.4058 ns/op 155632.1948 req/s 0.3646 p50-ms 0.8201 p95-ms 1.0327 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 775378 6448.8568 ns/op 155066.2444 req/s 0.3658 p50-ms 0.8237 p95-ms 1.0554 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 763272 6551.0796 ns/op 152646.5959 req/s 0.3670 p50-ms 0.8382 p95-ms 1.1031 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 756510 6609.6863 ns/op 151293.1115 req/s 0.3716 p50-ms 0.8514 p95-ms 1.1024 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 770982 6485.5070 ns/op 154189.9497 req/s 0.3675 p50-ms 0.8289 p95-ms 1.0570 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 782124 6393.1089 ns/op 156418.4208 req/s 0.3641 p50-ms 0.8118 p95-ms 1.0344 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 768893 6503.3132 ns/op 153767.7760 req/s 0.3682 p50-ms 0.8331 p95-ms 1.0650 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 761091 6569.8674 ns/op 152210.0732 req/s 0.3695 p50-ms 0.8495 p95-ms 1.1010 p99-ms
+BenchmarkHTTP2/protocol=h2c/routes=500/concurrency=64-4 759517 6583.4430 ns/op 151896.2039 req/s 0.3711 p50-ms 0.8431 p95-ms 1.0966 p99-ms

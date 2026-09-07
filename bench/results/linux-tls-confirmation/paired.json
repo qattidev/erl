@@ -1,0 +1,13 @@
+{
+  "pairs": 40,
+  "erl_wins": 33,
+  "erl_losses": 7,
+  "ties": 0,
+  "two_sided_sign_p": 0.000042277022657799534,
+  "alpha": 0.01,
+  "std_median_requests_per_second": 84815.586158302,
+  "erl_median_requests_per_second": 86698.9354557136,
+  "median_throughput_change_percent": 2.220522645326617,
+  "median_paired_change_percent": 2.6030621341412985,
+  "repeatable_win": true
+}

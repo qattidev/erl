@@ -1,0 +1,19 @@
+                                               │ bench/results/tls/std.txt │   bench/results/tls/erl.txt   │
+                                               │          sec/op           │   sec/op     vs base          │
+HTTP2/protocol=tls/routes=500/concurrency=64-4                 6.764µ ± 4%   6.712µ ± 3%  ~ (p=0.481 n=10)
+
+                                               │ bench/results/tls/std.txt │   bench/results/tls/erl.txt   │
+                                               │           req/s           │    req/s     vs base          │
+HTTP2/protocol=tls/routes=500/concurrency=64-4                 147.8k ± 4%   149.0k ± 3%  ~ (p=0.481 n=10)
+
+                                               │ bench/results/tls/std.txt │   bench/results/tls/erl.txt   │
+                                               │          p50-ms           │   p50-ms     vs base          │
+HTTP2/protocol=tls/routes=500/concurrency=64-4                 386.4m ± 1%   386.2m ± 2%  ~ (p=0.894 n=10)
+
+                                               │ bench/results/tls/std.txt │   bench/results/tls/erl.txt   │
+                                               │          p95-ms           │   p95-ms     vs base          │
+HTTP2/protocol=tls/routes=500/concurrency=64-4                 846.5m ± 5%   829.8m ± 4%  ~ (p=0.218 n=10)
+
+                                               │ bench/results/tls/std.txt │  bench/results/tls/erl.txt   │
+                                               │          p99-ms           │   p99-ms    vs base          │
+HTTP2/protocol=tls/routes=500/concurrency=64-4                 1.096 ± 12%   1.071 ± 7%  ~ (p=0.280 n=10)

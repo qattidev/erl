@@ -1,0 +1,16 @@
+{
+  "arch": "arm64",
+  "binary_sha256": "41f863558414adbf364b77063f842a8a0672f9ed3906cdaf8ebc2daa3c8a8965",
+  "client_procs": 2,
+  "concurrency": 64,
+  "connections": 4,
+  "cpus": 4,
+  "duration": "5s",
+  "go": "go1.25.11",
+  "os": "linux",
+  "protocol": "tls",
+  "routes": 500,
+  "runs": 20,
+  "server_procs": 2,
+  "warmup": "1s"
+}

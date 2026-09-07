@@ -1,0 +1,19 @@
+                                               │ bench/results/linux-tls-confirmation/std.txt │ bench/results/linux-tls-confirmation/erl.txt │
+                                               │                    sec/op                    │        sec/op          vs base               │
+HTTP2/protocol=tls/routes=500/concurrency=64-2                                    11.79µ ± 1%             11.53µ ± 1%  -2.17% (p=0.000 n=40)
+
+                                               │ bench/results/linux-tls-confirmation/std.txt │ bench/results/linux-tls-confirmation/erl.txt │
+                                               │                    req/s                     │         req/s          vs base               │
+HTTP2/protocol=tls/routes=500/concurrency=64-2                                    84.82k ± 1%             86.70k ± 1%  +2.22% (p=0.000 n=40)
+
+                                               │ bench/results/linux-tls-confirmation/std.txt │ bench/results/linux-tls-confirmation/erl.txt │
+                                               │                    p50-ms                    │        p50-ms          vs base               │
+HTTP2/protocol=tls/routes=500/concurrency=64-2                                    660.9m ± 1%             643.0m ± 1%  -2.70% (p=0.000 n=40)
+
+                                               │ bench/results/linux-tls-confirmation/std.txt │ bench/results/linux-tls-confirmation/erl.txt │
+                                               │                    p95-ms                    │        p95-ms          vs base               │
+HTTP2/protocol=tls/routes=500/concurrency=64-2                                     1.547 ± 1%              1.511 ± 1%  -2.29% (p=0.000 n=40)
+
+                                               │ bench/results/linux-tls-confirmation/std.txt │ bench/results/linux-tls-confirmation/erl.txt │
+                                               │                    p99-ms                    │           p99-ms            vs base          │
+HTTP2/protocol=tls/routes=500/concurrency=64-2                                     2.198 ± 4%                   2.134 ± 5%  ~ (p=0.082 n=40)

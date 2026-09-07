@@ -1,0 +1,3 @@
+BenchmarkHTTP2/protocol=tls/routes=500/concurrency=16-4 282146 10633.2041 ns/op 94045.0303 req/s 0.1427 p50-ms 0.3678 p95-ms 0.5983 p99-ms
+BenchmarkHTTP2/protocol=tls/routes=500/concurrency=16-4 276460 10851.9409 ns/op 92149.4144 req/s 0.1432 p50-ms 0.3921 p95-ms 0.6746 p99-ms
+BenchmarkHTTP2/protocol=tls/routes=500/concurrency=16-4 282284 10628.0132 ns/op 94090.9632 req/s 0.1431 p50-ms 0.3615 p95-ms 0.6023 p99-ms
